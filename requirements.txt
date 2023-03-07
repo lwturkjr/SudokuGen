@@ -1,0 +1,5 @@
+defusedxml==0.7.1
+fonttools==4.37.3
+fpdf2==2.5.7
+Pillow==9.2.0
+svg.path==6.2
