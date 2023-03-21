@@ -8,3 +8,4 @@ The outputted files can then be uploaded with a cover to KDP or some other self 
 
 I never got around to making a script to generate the cover.
 
+I also wanted to make the script multiprocess for faster generation, I wasn't able to fully figure that out.
